@@ -11,6 +11,7 @@ VQA is a multimodal task wherein, given an image and a natural language question
 7,136 testing questions that are yes/no.
 
 **Example Questions**
+
   *What color is the rectangle?*
   
   *Does the image contain a triangle?*
